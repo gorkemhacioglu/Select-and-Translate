@@ -1,4 +1,4 @@
-# Select and Translate (Subtitle translator while watching)
+# Select and Translate (Subtitle translator)
 ![alt text](https://streamviewerbot.com/SelectAndTranslate/selectAndTranslate_ui.png)
 
 This tool allows you to translate subtitles/texts by selecting via cursor. It will help you if you want to watch a movie with a foreign subtitle to improve your language skills.
